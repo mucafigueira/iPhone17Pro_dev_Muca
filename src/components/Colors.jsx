@@ -4,9 +4,9 @@ export default function Colors() {
 
     const colors = [
 
-        { id: "blue", name: "Titânio Azul", imagem: '/public/img/iPhone blue.webp', colorClass: 'bg-blue-500' },
-        { id: "silver", name: "Titânio Natural", imagem: '/public/img/iphoneSilver.webp', colorClass: 'bg-gray-300' },
-        { id: "orange", name: "Titânio Laranja", imagem: '/public/img/iphoneOrange.webp', colorClass: 'bg-orange-500' },
+        { id: "blue", name: "Titânio Azul", imagem: '/img/iPhone blue.webp', colorClass: 'bg-blue-500' },
+        { id: "silver", name: "Titânio Natural", imagem: '/img/iphoneSilver.webp', colorClass: 'bg-gray-300' },
+        { id: "orange", name: "Titânio Laranja", imagem: '/img/iphoneOrange.webp', colorClass: 'bg-orange-500' },
 
     ];
 

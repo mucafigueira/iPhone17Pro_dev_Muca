@@ -10,7 +10,7 @@ export default function NavBar() {
             <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
 
                 <img
-                    src="public/apple.png"
+                    src="/apple.png"
                     alt="iPhone Logo"
                     className="h-8 w-14"
                 />

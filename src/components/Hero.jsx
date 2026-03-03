@@ -5,7 +5,7 @@ export default function Hero() {
         <section className="relative h-screen sm:h-auto overflow-hidden bg-black pt-20 sm:pt-0">
             <div className="relative w-full h-[400px] sm:h-[500px] md:h-screen z-0 flex items-center justify-center sm:block sm:pt-0 pt-4">
                 <img
-                    src="../../public/img/Hero.jpg"
+                    src="/img/Hero.jpg"
                     alt="iPhone 17 Hero Image"
                     className="h-full w-auto sm:w-full sm:h-full object-cover object-center opacity-90 sm:px-0 px-4"
                 />
